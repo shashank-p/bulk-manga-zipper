@@ -28,7 +28,7 @@ root/
 ┃   ┣ Shueisha\_\#995 - Chapter 995\_ A Kunoichi's Oath/
 ┃   ┗ Shueisha\_\#996 - Chapter 996\_ Island of the Strongest/
 ┣ index.php
-┗ readme.txt
+┗ readme.md
 ```
 
 ---
@@ -58,7 +58,7 @@ root/
 ┃       ┣ 001.jpg
 ┃       ┗ 002.jpg
 ┣ index.php
-┗ readme.txt
+┗ readme.md
 
 ```
 
@@ -74,5 +74,5 @@ root/
 ┃ ┣ Shueisha\_\#995 - Chapter 995\_ A Kunoichi's Oath.zip 
 ┃ ┗ Shueisha\_\#996 - Chapter 996\_ Island of the Strongest.zip 
 ┣ index.php 
-┗ readme.txt
+┗ readme.md
 ```
